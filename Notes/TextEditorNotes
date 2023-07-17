@@ -1,0 +1,15 @@
+Text Editor Notes:
+
+#Commands
+
+# Command to run CrowPi2 Learning Project 14 #
+#'python3.7' is the program that the computer will use
+# to run the python program.
+# The programin this example is option_19_RGB_LED_distance_rainbow.py.
+#'sudo' is a command we need to use to give the python3.7 administrator permission
+#Copy and paste the following line without the '#'
+#sudo python3.7 /home/pi/Documents/PFY_Programming_yourname/PythonPrograms/CrowPi2Programs/option_19_RGB_LED_distance_rainbow.py
+
+
+#Shortcuts
+
